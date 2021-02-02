@@ -2,7 +2,7 @@
 
 <img height="480" align="right" alt="jpg" src="https://unsplash.com/photos/gvfhnRG4l2g/download?force=true&w=640" />
 
-<h2 align="center">About me</h2>
+<h3 align="center">About me</h3>
 
 I'm an undergraduate student from **Nanjing University** pursuing a bachelor's degree of Computer Science and Technology and currently working on [**@NJUMSC**](https://github.com/njumsc) as vice-chairman for development
 
@@ -10,7 +10,7 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 
 <br />
 
-<h2 align="center">Tech & Tools I use</h2>
+<h3 align="center">Tech & Tools I use</h3>
 
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -22,7 +22,7 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 
 <br />
 
-<h2 align="center">Languages I Know</h2>
+<h3 align="center">Languages I Know</h3>
 
 <p align="center">
   <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
