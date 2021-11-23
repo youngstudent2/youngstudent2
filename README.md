@@ -4,7 +4,7 @@
 
 <h3 align="center">About me</h3>
 
-I'm an undergraduate student from **Nanjing University** pursuing a bachelor's degree of Computer Science and Technology and currently working on [**@NJUMSC**](https://github.com/njumsc) as vice-chairman for development
+I'm an undergraduate student from **Nanjing University** pursuing a bachelor's degree of Computer Science and Technology
 
 - :camera: I enjoy photography, record unique moments of my daily life and trips
 
