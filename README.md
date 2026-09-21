@@ -1,6 +1,6 @@
 # :wave: Hello there!
 
-<img height="480" align="right" alt="jpg" src="https://unsplash.com/photos/gvfhnRG4l2g/download?force=true&w=640" />
+<img height="480" align="right" alt="Photo by ice tea on Unsplash" src="https://images.unsplash.com/photo-1612284299197-b57fadfa0b9a?w=640&q=80&auto=format&fit=crop" />
 
 <h3 align="center">About me</h3>
 
@@ -25,7 +25,7 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 <h3 align="center">Languages I Know</h3>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> 
   <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=blue"> 
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white">
@@ -40,7 +40,7 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{youngstudent2}/count.svg" alt="youngstudent2 :: Visitor's Count" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=youngstudent2&style=flat" alt="youngstudent2 :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :scroll:</h4>
 
