@@ -41,19 +41,3 @@ I'm an undergraduate student from **Nanjing University** pursuing a bachelor's d
 <h4 align="center">Visitor's count :eyes:</h4>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=youngstudent2&style=flat" alt="youngstudent2 :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :scroll:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngstudent2&langs_count=10&count_private=true&layout=compact&exclude_repo=IOS-Homework" alt="youngstudent2 :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=youngstudent2&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="youngstudent2 :: Profile Stats" /></p>
-
-
-
-
-
-
-
-
